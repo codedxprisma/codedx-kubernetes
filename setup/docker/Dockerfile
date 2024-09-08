@@ -1,4 +1,4 @@
-FROM alpine:3.15.4
+FROM alpine:3.19.4
 
 # Install curl, git, jre, openssl
 RUN  apk update && \
